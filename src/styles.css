@@ -1,0 +1,40 @@
+body { font-family: Verdana,MV Boli,sans-serif;
+  font-size: 34px;
+  color: rgb(231, 18, 238);
+  text-align: center;
+  background-color: #54ff05de;
+  background-image: url("https://querido-dinero.imgix.net/1113/Lecciones-financieras-de-Los-Simpsons_Portada.png?w=1500&h=600&fit=crop&crop=faces&auto=format,compress&lossless=1");
+
+  
+  }
+  
+p{ margin-left: 80px;
+  margin-top: 20px;
+  font-size: 68%;
+  color: rgb(21, 2, 24);}
+
+  .nav > li {
+    float:left;
+  }
+
+  .nav li a {
+    background-color:#0000;
+    color:rgb(223, 11, 11);
+    font-weight: bold;
+    text-decoration:none;
+    padding: 15px 56px;
+    display:block;
+  }
+
+  
+  .nav li ul {
+    display:none;
+    position:absolute;
+    min-width:140px;
+  }
+  
+  .nav li:hover > ul {
+    display:block;
+  }
+  
+ 
